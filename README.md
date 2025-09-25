@@ -40,8 +40,8 @@ Screenshots:
 
 <img width="483" height="483" alt="Screenshot 2025-09-25 11 20 05 AM" src="https://github.com/user-attachments/assets/f3cac8e2-33dc-4f32-99c8-df6f49a6196c" />
 <img width="483" height="483" alt="Screenshot 2025-09-25 11 20 11 AM" src="https://github.com/user-attachments/assets/a071a364-2e13-4475-a989-e2e857112d81" />
+<img width="483" height="483" alt="image" src="https://github.com/user-attachments/assets/6cc6d07d-4846-47a2-94b1-3cac424e1ab2" />
 <img width="483" height="483" alt="Screenshot 2025-09-25 11 20 16 AM" src="https://github.com/user-attachments/assets/9829e04e-e233-4e14-8424-1c6982fcd7d8" />
-<img src="file:///home/chronos/u-ade72a646ecab56e16d909825c8135f40b943abb/MyFiles/Downloads/Screenshot%202025-09-25%2011.21.45%20AM.png"/><img width="483" height="483" alt="image" src="https://github.com/user-attachments/assets/6ccb48e9-1520-4f9f-a9be-f09452455f61" />
 
 
 Contributing:
