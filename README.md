@@ -35,7 +35,9 @@ Clone or download the repository.
 Open the game in your preferred environment (IDE, or game platform which supports java).
 Run the main game file (index.html or main script).
 
-Screenshots
+Screenshots:
+
+
 <img width="483" height="483" alt="Screenshot 2025-09-25 11 20 05 AM" src="https://github.com/user-attachments/assets/f3cac8e2-33dc-4f32-99c8-df6f49a6196c" />
 
 <img width="483" height="483" alt="Screenshot 2025-09-25 11 20 11 AM" src="https://github.com/user-attachments/assets/a071a364-2e13-4475-a989-e2e857112d81" />
