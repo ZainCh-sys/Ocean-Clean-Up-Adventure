@@ -44,6 +44,9 @@ Screenshots:
 
 <img width="483" height="483" alt="Screenshot 2025-09-25 11 20 16 AM" src="https://github.com/user-attachments/assets/9829e04e-e233-4e14-8424-1c6982fcd7d8" />
 
+<img src="file:///home/chronos/u-ade72a646ecab56e16d909825c8135f40b943abb/MyFiles/Downloads/Screenshot%202025-09-25%2011.21.45%20AM.png"/><img width="483" height="483" alt="image" src="https://github.com/user-attachments/assets/6ccb48e9-1520-4f9f-a9be-f09452455f61" />
+
+
 Contributing:
 Contributions are welcome! Feel free to do anything including:
 Add new obstacles or collectible items.
