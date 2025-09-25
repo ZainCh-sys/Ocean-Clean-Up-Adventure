@@ -43,6 +43,10 @@ Screenshots:
 <img width="483" height="483" alt="image" src="https://github.com/user-attachments/assets/6cc6d07d-4846-47a2-94b1-3cac424e1ab2" />
 <img width="483" height="483" alt="Screenshot 2025-09-25 11 20 16 AM" src="https://github.com/user-attachments/assets/9829e04e-e233-4e14-8424-1c6982fcd7d8" />
 
+Purpose:
+This project was created as part of a Hackathon, and this game represents my contribution. Through this game, we aim to raise awareness about the importance of protecting our oceans. Every bottle or bag you collect in the game reminds us that small actions can make a big difference in keeping our oceans clean and safe for marine life.
+
+Here is the link to the full project: https://sai-sys-cmd.github.io/CIA-Coding-Hackathon/
 
 Contributing:
 Contributions are welcome! Feel free to do anything including:
