@@ -28,6 +28,7 @@ Press the restart button to play again.
 
 **Installation / Running:**
 Use the link :https://play.juicemind.com/sandbox/k4mnmBuBReWw8QMuIzlS
+
 You can also clone or download the repository.
 Open the game in your preferred environment (IDE, or game platform which supports java).
 Run the main game file (index.html or main script).
